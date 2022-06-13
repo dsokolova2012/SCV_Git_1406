@@ -86,3 +86,14 @@ git diff
 there are particular syntaxes rules which help to make the text more readable. Examples: **bold**, *intalics*, ~~strike through~~.
 ### 2.4. Lists formatting 
 lists can be numbered and not numbered. Numbered lists start with number like `1. List 1`, not numbered lists start with `+`, `-` or `*`.
+### 2.5. Saving changes
+It is strongly recommended to save all changes on the continuous basis. For that add message reflecting the respective change and commit with the command as:
+```
+git commit -m “added xxx message”
+```
+second option for saving changes is:
+```
+Git commit -am “added xx message”
+```
+### 2.6. To switch between changes 
+to switch Between changes execute command: `Git checkout ‘name change from log’`.
