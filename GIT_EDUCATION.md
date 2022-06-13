@@ -107,3 +107,14 @@ for the brief list of changes execute command:
 ```
 Git log —oneline
 ```
+### 2.8. To insert quotes
+
+To insert quotes you have to add text as <text. Example: *< кто не работает, тот не ест*.
+
+To insert quotes in quote insert text with indent:
+
+> first level of quoting
+>> Second level of quoting
+>>> Third level of quoting
+>
+> first level of quoting
