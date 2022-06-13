@@ -97,3 +97,13 @@ Git commit -am “added xx message”
 ```
 ### 2.6. To switch between changes 
 to switch Between changes execute command: `Git checkout ‘name change from log’`.
+### 2.7. Commit history review
+For making history review to see detailed list of changes use command:
+```
+Git log
+```
+
+for the brief list of changes execute command:
+```
+Git log —oneline
+```
