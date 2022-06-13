@@ -84,4 +84,5 @@ git diff
 ```
 ### 2.3. Text formatting 
 there are particular syntaxes rules which help to make the text more readable. Examples: **bold**, *intalics*, ~~strike through~~.
-
+### 2.4. Lists formatting 
+lists can be numbered and not numbered. Numbered lists start with number like `1. List 1`, not numbered lists start with `+`, `-` or `*`.
