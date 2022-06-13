@@ -82,5 +82,6 @@ git add <file name with extension>
 ```
 git diff
 ```
-You see in green only added lines and in red - deleted lines.
+### 2.3. Text formatting 
+there are particular syntaxes rules which help to make the text more readable. Examples: **bold**, *intalics*, ~~strike through~~.
 
