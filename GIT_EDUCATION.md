@@ -115,3 +115,6 @@ To insert quotes in quote insert text with indent:
 >>> Third level of quoting
 >
 > first level of quoting
+### 2.9. Pictures 
+to insert picture:
+![hard work](C:\Users\User\OneDrive\Рабочий стол\GIT_Education\Programmer.jpg)
