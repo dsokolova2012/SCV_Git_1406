@@ -63,8 +63,24 @@ Possible to get repository in 2 ways.
 ‘’’
 Git init
 ‘’’
-In initial folder hidden folder '.git' will appear.
+In initial folder hidden folder _.git_ will appear.
     2. To clone existing repository Git from any location. To do it as:
 ```
 Git clone <repository address>
 ```
+### 2.2. Making changes in repository 
+each file in working folder can exist in one of two conditions: under version control (tracked) and not (untracked).git. Tracked files can be not changed, changed or prepared for commit.
+- In order to see files status in repository execute command:
+```
+git status
+```
+- For new file tracking use the command:
+```
+git add <file name with extension>
+```
+- How GIT  changes use command:
+```
+git diff
+```
+You see in green only added lines and in red - deleted lines.
+
