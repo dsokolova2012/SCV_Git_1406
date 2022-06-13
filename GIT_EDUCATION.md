@@ -54,11 +54,8 @@ Git confit —global user.mail “mail@example.com”
 ‘’’
 
 ## 2. Working with repository
-
-### 2.1. Repository creation
-
-Possible to get repository in 2 ways.
-
+### 2.1. Repository creation 
+possible to get repository in 2 ways.
     1. In terminal open the folder which is foreseen for Repository. Execute command:
 ‘’’
 Git init
