@@ -117,5 +117,5 @@ To insert quotes in quote insert text with indent:
 > first level of quoting
 
 ![hard work](Programmer.jpg)
-## 2.8. To insert quotes
+### 2.8. To insert quotes
 >Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head.
