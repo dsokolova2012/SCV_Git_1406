@@ -130,3 +130,5 @@ to switch to branh use command
 ```
 git checkout name
 ```
+# 4. Merge branches
+merging possible whe changes are in both master and slave branches
