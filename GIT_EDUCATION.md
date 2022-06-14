@@ -129,3 +129,4 @@ to switch to branh use command
 ```
 git checkout name
 ```
+# 4. Merge branches
