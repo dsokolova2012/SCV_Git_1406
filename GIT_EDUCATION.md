@@ -121,3 +121,5 @@ To insert quotes in quote insert text with indent:
 >Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head.
 ### 2.8. To insert quotes
 >Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head.git
+## 3. To create branch
+In order to craete branch you have to use command *git branch branch.name"
