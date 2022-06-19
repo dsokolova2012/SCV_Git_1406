@@ -132,3 +132,6 @@ git checkout name
 ```
 # 4. Merge branches
 # 5. Graph
+to see history use *git log --graph*
+
+
