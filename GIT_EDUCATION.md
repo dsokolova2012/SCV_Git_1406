@@ -131,3 +131,5 @@ to switch to branh use command
 git checkout name
 ```
 # 4. Merge branches
+# 5. To selolve conflicts
+Confict to appear changes ahve to be done prior in both branches
