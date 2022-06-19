@@ -131,16 +131,3 @@ to switch to branh use command
 git checkout name
 ```
 # 4. Merge branches
-To merge branches usecommand 'merge'
-# 5.To resolve conflicts
-Confict to appear changes haveve to be done prior in both branches
-To solve conflictw by merging branches chiose from offered options. Merge goes to branch where you are in teh current moment
-# 6. To show history
-For commits history review use
-'''
-git log
-'''
-or
-'''
-got log --oneline
-'''
