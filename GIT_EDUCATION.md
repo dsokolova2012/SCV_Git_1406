@@ -132,3 +132,5 @@ git checkout name
 ```
 # 4. Merge branches
 To merge branches usecommand 'merge'
+# 5.To resolve conflicts
+To solve conflictw by merging branches chiose from offered options. Merge goes to branch where you are in teh current moment
