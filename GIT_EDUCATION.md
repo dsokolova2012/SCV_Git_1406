@@ -133,5 +133,6 @@ git checkout name
 # 4. Merge branches
 # 5. Graph
 to see history use *git log --graph*
-
+# 6. Work with remote repositry
+1. To create account at GITHUB
 
