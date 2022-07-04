@@ -135,4 +135,5 @@ git checkout name
 to see history use *git log --graph*
 # 6. Work with remote repositry
 1. To create account at GITHUB
-
+2. To create local repositry
+3. To create request to combime ocal repositry with remote
